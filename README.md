@@ -70,7 +70,6 @@ Visual Studio
 
 ### FRONTEND
 - React
-- CSS
 - Framer motion
 ### BACKEND
 - npm install
