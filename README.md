@@ -1,4 +1,3 @@
-# Vehicles-Scenario-ASSIGENMENT
 # `Vehicle Scenario`
 
 ## GIVEN ASSIGNMENT DETAILS
